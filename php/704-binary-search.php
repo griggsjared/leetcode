@@ -3,9 +3,9 @@
 class Solution {
 
     /**
-     * @param Integer[] $nums
-     * @param Integer $target
-     * @return Integer
+     * @param array<integer> $nums
+     * @param integer $target
+     * @return integer
      */
     function search(array $nums, int $target) : int {
 

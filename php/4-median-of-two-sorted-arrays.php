@@ -3,9 +3,9 @@
 class Solution {
 
     /**
-     * @param int[] $nums1
-     * @param int[] $nums2
-     * @return Float
+     * @param array<integer> $nums1
+     * @param array<integer> $nums2
+     * @return float
      */
     function findMedianSortedArrays(array $nums1, array $nums2) : float {
 
