@@ -9,10 +9,6 @@ class Solution
      */
     function longestCommonPrefix(array $strs) : string
     {
-        if(empty($strs)) {
-            return '';
-        }
-
         if(count($strs) === 0) {
             return '';
         }
