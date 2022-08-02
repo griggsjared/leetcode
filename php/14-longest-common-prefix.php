@@ -4,7 +4,7 @@ class Solution
 {
 
     /**
-     * @param array $strs
+     * @param array<string> $strs
      * @return string
      */
     function longestCommonPrefix(array $strs) : string
